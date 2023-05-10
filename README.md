@@ -1,4 +1,5 @@
-### Hi there 👋
+### 
+< img src="mead-50-0.2.pdf" width="720" height="360" />
 
 <!--
 **AffectFAL/AffectFAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
