@@ -6,5 +6,5 @@ The code is under cleaning.
 
 Here are some experimental results to show.
 
-<img src="angry.png" width="360" height="360" />
+<img src="mead-50-0.2.pdf" width="360" height="360" />
 
